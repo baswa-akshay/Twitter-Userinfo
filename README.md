@@ -49,6 +49,6 @@ When prompted, enter a Twitter username to retrieve and display information abou
 - If there are issues with retrieving user information, the script will print an error message.
 - Make sure your API credentials are correct and that you have the necessary permissions.
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/baswa-akshay/Twitter-Userinfo/blob/main/LICENSE) file for details.
 ## Author 
 - [Baswa-Akshay](https://github.com/baswa-akshay)
