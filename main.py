@@ -32,11 +32,11 @@ def lookup_user(client: tweepy.Client, username: str) -> None:
 
 if __name__ == "__main__":
     client = tweepy.Client(
-        bearer_token='',  # Get the client tokens and access keys from https://developer.x.com
-        consumer_key='',
-        consumer_secret='',
-        access_token='',
-        access_token_secret='',
+        bearer_token='',  # Your Bearer Token
+        consumer_key='',  # Your Consumer Key
+        consumer_secret='',  # Your Consumer Secret
+        access_token='',  # Your Access Token
+        access_token_secret='',  # Your Access Token Secret
     )
 
     print("=== About Me ===")
